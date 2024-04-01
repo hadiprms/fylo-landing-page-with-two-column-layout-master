@@ -10,3 +10,22 @@
     font-size: 30px;
     font-weight: 700;
 }
+#des-p{
+    font-size: 17px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+#mail-form{
+    width: 100%;
+}
+#mail-button{
+    display: block;
+    margin-top: 15px;
+    width: 100%;
+    padding: 9px 28px;
+    text-align: center;
+    border-radius: 3px;
+}
+#border{
+    border-color:black;
+}
