@@ -90,3 +90,24 @@
 #av-job{
     font-size: 8px;
 }
+#part3-all{
+    background-color: hsl(238, 22%, 44%);
+    color: white;
+}
+#part3-p{
+    width: 90%;
+}
+#part3-form{
+    width: 100%;
+}
+#part3-button{
+    display: block;
+    margin-top: 15px;
+    width: 100%;
+    padding: 9px 28px;
+    text-align: center;
+    border-radius: 3px;
+}
+#part3-input{
+    border-radius: 3px;
+}
