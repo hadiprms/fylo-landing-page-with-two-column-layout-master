@@ -14,6 +14,7 @@
     font-size: 17px;
     font-weight: 400;
     margin-top: 20px;
+    text-align: center;
 }
 #mail-form{
     width: 100%;
@@ -177,6 +178,27 @@ footer{
     }
     #navbarItems{
         margin-top: 13%;
-    
+    }
+    #ill-1-p{
+        font-size: 46px;
+    }
+    #des-p{
+        font-size: 22px;
+        text-align: left;
+    }
+    #border{
+        width: 55%;
+        border-radius: 3px;
+    }
+    #mail-button{
+        width: 35%;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        margin-top: 0px;
+        text-align: center;
+    }
+    #lg-media-des{
+        display: table-cell;
+        vertical-align: middle;
     }
 }
