@@ -34,6 +34,9 @@
     width: 100%;
     height: auto;
 }
+#ill-2-color{
+    background-color: hsl(240, 75%, 98%); 
+}
 #part2-all{
     background-color: hsl(240, 75%, 98%);
     padding-bottom: 80px;
@@ -200,5 +203,32 @@ footer{
     #lg-media-des{
         display: table-cell;
         vertical-align: middle;
+    }
+    #ill2c-div{
+        padding-left: 0px;
+    }
+    #ill-2-color{
+        padding-bottom: 20%;
+    }
+    #bg-pc{
+        height: auto;
+        width: 100%;
+    }
+    #h5{
+        font-size: 40px;
+    }
+    #ill2-p-pc{
+        font-size: 18px;
+        width: 85%;
+        margin-left: 3%;
+    }
+    #flyo-link{
+        float: left;
+        margin-left: 5%;
+    }
+    #bord-div{
+        width: 50%;
+        margin-right: 45%;
+        margin-top: 80px;
     }
 }
