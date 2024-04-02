@@ -257,4 +257,11 @@ footer{
     #part3-form{
         margin-top: 10%;
     }
+    footer{
+        padding-top: 100px;
+    }
+    #second-ul{
+        margin-top: 0px;
+    }
+
 }
